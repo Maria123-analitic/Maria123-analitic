@@ -30,7 +30,7 @@
  Итог №2
    Проведен анализ самых прибыльных продуктов кинотеатра.
 
-   Ссылка на проект : [](https://1drv.ms/x/c/7cb701dab23dcbe3/EfmGgF6ADNFDn613cRmrJrMBr59EQ8h4IKnG9caM7naCuQ)
+   Ссылка на проект :    [](https://1drv.ms/x/c/7cb701dab23dcbe3/EfmGgF6ADNFDn613cRmrJrMBr59EQ8h4IKnG9caM7naCuQ)
 
 Проект 2 Моделирование изменения балансов студентов в онлан-школе.
 
@@ -42,7 +42,7 @@
  Задача 2
  Проведен статистический анализ  количества изменений баланса под влиянием транзакций (оплат, начислений, корректирующих списаний) и уроков (списаний с баланса по мере прохождения уроков
 
-Ссылка на проект [](https://metabase.sky.pro/question/91413) [](https://metabase.sky.pro/question/91611)
+Ссылка на проект    [](https://metabase.sky.pro/question/91413)       [](https://metabase.sky.pro/question/91611)
 
 
 Электронная почта: marimorozova123@icloud.com
